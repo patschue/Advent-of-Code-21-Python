@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  2 07:25:33 2021
 
-@author: schue
+@author: Patrick
 """
 
 with open("InputDay2.txt") as f:
